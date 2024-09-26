@@ -1,8 +1,0 @@
-www.swateam.org.uk
-monero.swateam.org.uk
-monero0.swateam.org.uk
-monero1.swateam.org.uk
-monero2.swateam.org.uk
-monero3.swateam.org.uk
-proxy.swateam.org.uk
-www.proxy.swateam.org.uk

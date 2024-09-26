@@ -1,8 +1,0 @@
-www.iea.org.uk
-autodiscover.iea.org.uk
-insider.iea.org.uk
-office.iea.org.uk
-remote.iea.org.uk
-www.remote.iea.org.uk
-secure.iea.org.uk
-www.secure.iea.org.uk

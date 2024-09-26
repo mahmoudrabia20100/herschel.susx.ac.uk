@@ -1,8 +1,0 @@
-www.comedy.co.uk
-cdn.comedy.co.uk
-cdn.dev.comedy.co.uk
-staging.dev.comedy.co.uk
-fahmta.comedy.co.uk
-server.comedy.co.uk
-service.comedy.co.uk
-t13.comedy.co.uk

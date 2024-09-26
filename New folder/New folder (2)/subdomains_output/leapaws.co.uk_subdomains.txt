@@ -1,7 +1,0 @@
-leap-pubsub.leapaws.co.uk
-cdn.live.leapaws.co.uk
-staging.leapaws.co.uk
-test.leapaws.co.uk
-cdn.test.leapaws.co.uk
-leap-pubsub.test.leapaws.co.uk
-updates.test.leapaws.co.uk

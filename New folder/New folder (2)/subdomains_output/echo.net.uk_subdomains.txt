@@ -1,2 +1,0 @@
-axon.echo.net.uk
-unifi.echo.net.uk

@@ -1,4 +1,0 @@
-www.attitude.co.uk
-app.attitude.co.uk
-dev.attitude.co.uk
-fahmta.attitude.co.uk

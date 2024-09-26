@@ -1,7 +1,0 @@
-www.xcweather.co.uk
-beta.xcweather.co.uk
-clone.xcweather.co.uk
-beta.clone.xcweather.co.uk
-dev.xcweather.co.uk
-beta.dev.xcweather.co.uk
-fahmta.xcweather.co.uk

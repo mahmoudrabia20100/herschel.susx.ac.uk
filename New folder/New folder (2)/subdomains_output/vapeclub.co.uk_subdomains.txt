@@ -1,8 +1,0 @@
-www.vapeclub.co.uk
-admin.vapeclub.co.uk
-www.admin.vapeclub.co.uk
-staging.admin.vapeclub.co.uk
-blog.vapeclub.co.uk
-www.blog.vapeclub.co.uk
-cdn.vapeclub.co.uk
-staging.www.vapeclub.co.uk

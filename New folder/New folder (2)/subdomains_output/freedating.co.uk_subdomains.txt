@@ -1,9 +1,0 @@
-www.freedating.co.uk
-aws.freedating.co.uk
-aws-tools.freedating.co.uk
-awsdev.freedating.co.uk
-dev.freedating.co.uk
-es.freedating.co.uk
-lb.freedating.co.uk
-secure.freedating.co.uk
-tools.freedating.co.uk

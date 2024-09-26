@@ -1,6 +1,0 @@
-link.buchan.eclipse.co.uk
-link.hassett.eclipse.co.uk
-kin.eclipse.co.uk
-mail.eclipse.co.uk
-www.mail.eclipse.co.uk
-webmail.eclipse.co.uk

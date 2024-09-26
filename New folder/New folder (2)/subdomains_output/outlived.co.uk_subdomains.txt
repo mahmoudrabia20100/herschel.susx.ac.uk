@@ -1,8 +1,0 @@
-www.outlived.co.uk
-cpanel.outlived.co.uk
-mail.outlived.co.uk
-mta-sts.outlived.co.uk
-status.outlived.co.uk
-webdisk.outlived.co.uk
-webmail.outlived.co.uk
-whm.outlived.co.uk

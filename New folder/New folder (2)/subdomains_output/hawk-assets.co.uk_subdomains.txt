@@ -1,4 +1,0 @@
-devices.hawk-assets.co.uk
-gadgets.hawk-assets.co.uk
-gizmos.hawk-assets.co.uk
-widgets.hawk-assets.co.uk

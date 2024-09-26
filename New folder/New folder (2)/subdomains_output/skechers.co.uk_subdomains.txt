@@ -1,7 +1,0 @@
-www.skechers.co.uk
-aiq-in.skechers.co.uk
-dev.skechers.co.uk
-production.skechers.co.uk
-production-test.skechers.co.uk
-tm.skechers.co.uk
-www.tm.skechers.co.uk

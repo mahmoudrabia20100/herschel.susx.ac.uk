@@ -1,5 +1,0 @@
-www.yourweather.co.uk
-local.yourweather.co.uk
-local-services.yourweather.co.uk
-local-www.yourweather.co.uk
-test-www.yourweather.co.uk

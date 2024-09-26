@@ -1,8 +1,0 @@
-www.deliciousmagazine.co.uk
-aws.deliciousmagazine.co.uk
-test.aws.deliciousmagazine.co.uk
-consent.deliciousmagazine.co.uk
-dev.deliciousmagazine.co.uk
-shop.deliciousmagazine.co.uk
-www.shop.deliciousmagazine.co.uk
-staging.deliciousmagazine.co.uk

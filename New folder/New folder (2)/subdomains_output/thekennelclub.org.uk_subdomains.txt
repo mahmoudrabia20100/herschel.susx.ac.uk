@@ -1,6 +1,0 @@
-email.thekennelclub.org.uk
-sbc1.thekennelclub.org.uk
-www.sbc1.thekennelclub.org.uk
-sbc2.thekennelclub.org.uk
-secure.thekennelclub.org.uk
-services.thekennelclub.org.uk

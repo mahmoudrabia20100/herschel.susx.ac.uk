@@ -1,6 +1,0 @@
-www.knightfrank.co.uk
-dxp.fos.knightfrank.co.uk
-beta.dxp.fos.knightfrank.co.uk
-staging.dxp.fos.knightfrank.co.uk
-marketing.knightfrank.co.uk
-phoenix.knightfrank.co.uk

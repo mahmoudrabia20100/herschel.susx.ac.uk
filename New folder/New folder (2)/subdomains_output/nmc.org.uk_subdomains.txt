@@ -1,6 +1,0 @@
-www.nmc.org.uk
-app.nmc.org.uk
-appuser.nmc.org.uk
-careers.nmc.org.uk
-revalidation.nmc.org.uk
-tools.nmc.org.uk

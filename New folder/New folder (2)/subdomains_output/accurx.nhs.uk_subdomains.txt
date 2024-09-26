@@ -1,8 +1,0 @@
-www.accurx.nhs.uk
-demo.accurx.nhs.uk
-demohscn.accurx.nhs.uk
-dev.accurx.nhs.uk
-devhscn.accurx.nhs.uk
-hscn.accurx.nhs.uk
-staging.accurx.nhs.uk
-staginghscn.accurx.nhs.uk

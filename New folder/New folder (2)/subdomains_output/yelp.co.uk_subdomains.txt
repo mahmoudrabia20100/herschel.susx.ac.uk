@@ -1,7 +1,0 @@
-www.yelp.co.uk
-auto-api.yelp.co.uk
-biz.yelp.co.uk
-devc.yelp.co.uk
-m.yelp.co.uk
-stagef.yelp.co.uk
-stageg.yelp.co.uk

@@ -1,8 +1,0 @@
-www.boutell.co.uk
-autodiscover.boutell.co.uk
-cpanel.boutell.co.uk
-cpcalendars.boutell.co.uk
-cpcontacts.boutell.co.uk
-mail.boutell.co.uk
-webdisk.boutell.co.uk
-webmail.boutell.co.uk

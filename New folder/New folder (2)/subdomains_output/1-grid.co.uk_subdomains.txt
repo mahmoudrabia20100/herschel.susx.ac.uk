@@ -1,8 +1,0 @@
-www.1-grid.co.uk
-autodiscover.1-grid.co.uk
-cpanel.1-grid.co.uk
-cpcalendars.1-grid.co.uk
-cpcontacts.1-grid.co.uk
-mail.1-grid.co.uk
-webdisk.1-grid.co.uk
-webmail.1-grid.co.uk

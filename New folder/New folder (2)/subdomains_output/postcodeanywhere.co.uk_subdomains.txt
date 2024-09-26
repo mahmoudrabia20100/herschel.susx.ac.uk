@@ -1,7 +1,0 @@
-www.postcodeanywhere.co.uk
-account.postcodeanywhere.co.uk
-accountold.postcodeanywhere.co.uk
-beta.postcodeanywhere.co.uk
-classic.postcodeanywhere.co.uk
-cleanseplus.postcodeanywhere.co.uk
-services.postcodeanywhere.co.uk

@@ -1,8 +1,0 @@
-www.discountdragon.co.uk
-cpanel.discountdragon.co.uk
-cpcalendars.discountdragon.co.uk
-cpcontacts.discountdragon.co.uk
-dev.discountdragon.co.uk
-mail.discountdragon.co.uk
-webdisk.discountdragon.co.uk
-webmail.discountdragon.co.uk

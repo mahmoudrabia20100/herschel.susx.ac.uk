@@ -1,9 +1,0 @@
-control.gridhost.co.uk
-www.control.gridhost.co.uk
-mail3.eqx.gridhost.co.uk
-www.mail3.eqx.gridhost.co.uk
-london.gridhost.co.uk
-phpmyadmin.gridhost.co.uk
-www.phpmyadmin.gridhost.co.uk
-webmail.gridhost.co.uk
-www.webmail.gridhost.co.uk

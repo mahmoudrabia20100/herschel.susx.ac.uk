@@ -1,3 +1,0 @@
-www.n1.txt
-test.n1.txt
-app.n1.txt

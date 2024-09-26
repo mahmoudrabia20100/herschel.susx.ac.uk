@@ -1,5 +1,0 @@
-www.interactivebrokers.co.uk
-globaltrader.interactivebrokers.co.uk
-impact.interactivebrokers.co.uk
-qa.interactivebrokers.co.uk
-ralno.interactivebrokers.co.uk

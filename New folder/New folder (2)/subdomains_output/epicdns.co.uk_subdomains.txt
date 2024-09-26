@@ -1,8 +1,0 @@
-alpha.epicdns.co.uk
-delta.epicdns.co.uk
-gamma.epicdns.co.uk
-mars.epicdns.co.uk
-omega.epicdns.co.uk
-rho.epicdns.co.uk
-theta.epicdns.co.uk
-zeta.epicdns.co.uk

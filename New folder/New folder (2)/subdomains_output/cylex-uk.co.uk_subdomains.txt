@@ -1,7 +1,0 @@
-admin.cylex-uk.co.uk
-adminbeta.cylex-uk.co.uk
-cdn.cylex-uk.co.uk
-cdn1.cylex-uk.co.uk
-cdn2.cylex-uk.co.uk
-cdn3.cylex-uk.co.uk
-cdn4.cylex-uk.co.uk

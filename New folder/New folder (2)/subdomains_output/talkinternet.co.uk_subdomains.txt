@@ -1,8 +1,0 @@
-www.talkinternet.co.uk
-admin.talkinternet.co.uk
-autodiscover.talkinternet.co.uk
-dnsgate.talkinternet.co.uk
-www.dnsgate.talkinternet.co.uk
-speedtest.talkinternet.co.uk
-ucportal.talkinternet.co.uk
-wordpress.talkinternet.co.uk

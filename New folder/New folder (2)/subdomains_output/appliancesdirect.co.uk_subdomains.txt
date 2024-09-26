@@ -1,8 +1,0 @@
-www.appliancesdirect.co.uk
-autodiscover.appliancesdirect.co.uk
-bathroombuilder.appliancesdirect.co.uk
-infrastructure.appliancesdirect.co.uk
-msg.appliancesdirect.co.uk
-search.appliancesdirect.co.uk
-test.appliancesdirect.co.uk
-uat03ext.appliancesdirect.co.uk

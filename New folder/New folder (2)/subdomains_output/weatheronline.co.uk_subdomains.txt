@@ -1,2 +1,0 @@
-api.weatheronline.co.uk
-www.api.weatheronline.co.uk

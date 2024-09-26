@@ -1,8 +1,0 @@
-api.axs.co.uk
-distribution-api-prod-uk.axs.co.uk
-fanaccount.axs.co.uk
-q.axs.co.uk
-shop.axs.co.uk
-tickets.axs.co.uk
-unifiedapicommerce.uk-prod.axs.co.uk
-unifiedapicommerce.axs.co.uk

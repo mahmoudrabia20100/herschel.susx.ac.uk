@@ -1,7 +1,0 @@
-www.grapeshot.co.uk
-analytics-db02.grapeshot.co.uk
-analytics-db02.dc.grapeshot.co.uk
-vcenter-server.dc.grapeshot.co.uk
-vmware01.dc.grapeshot.co.uk
-vmware02.dc.grapeshot.co.uk
-vmware03.dc.grapeshot.co.uk

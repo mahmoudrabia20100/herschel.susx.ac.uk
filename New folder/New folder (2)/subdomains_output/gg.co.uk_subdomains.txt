@@ -1,4 +1,0 @@
-www.gg.co.uk
-alpha.gg.co.uk
-dev.gg.co.uk
-staging.gg.co.uk

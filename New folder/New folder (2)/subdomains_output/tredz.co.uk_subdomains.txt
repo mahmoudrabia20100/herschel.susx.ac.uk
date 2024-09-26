@@ -1,8 +1,0 @@
-www.tredz.co.uk
-cdn.tredz.co.uk
-www.cdn.tredz.co.uk
-edp.tredz.co.uk
-www.edp.tredz.co.uk
-email.tredz.co.uk
-static-cdn.tredz.co.uk
-www.static-cdn.tredz.co.uk

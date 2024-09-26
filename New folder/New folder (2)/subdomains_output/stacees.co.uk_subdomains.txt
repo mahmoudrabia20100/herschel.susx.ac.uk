@@ -1,5 +1,0 @@
-www.stacees.co.uk
-api.stacees.co.uk
-api-test.stacees.co.uk
-blog.stacees.co.uk
-test.stacees.co.uk
