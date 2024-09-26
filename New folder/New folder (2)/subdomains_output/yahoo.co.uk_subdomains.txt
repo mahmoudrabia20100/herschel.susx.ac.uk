@@ -1,0 +1,2 @@
+pop.mail.yahoo.co.uk
+smtp.mail.yahoo.co.uk

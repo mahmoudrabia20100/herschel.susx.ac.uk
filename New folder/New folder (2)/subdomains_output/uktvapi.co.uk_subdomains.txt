@@ -1,0 +1,2 @@
+bugscore.uktvapi.co.uk
+pressauth.uktvapi.co.uk

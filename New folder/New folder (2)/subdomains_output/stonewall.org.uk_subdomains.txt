@@ -1,0 +1,16 @@
+www.stonewall.org.uk
+actions.stonewall.org.uk
+apps.stonewall.org.uk
+autodiscover.stonewall.org.uk
+files.stonewall.org.uk
+global-learning.stonewall.org.uk
+img.stonewall.org.uk
+learning.stonewall.org.uk
+outlook.stonewall.org.uk
+swexch01.stonewall.org.uk
+swts01.stonewall.org.uk
+web.stonewall.org.uk
+www.web.stonewall.org.uk
+webmail.stonewall.org.uk
+youngstonewall.org.uk
+www.youngstonewall.org.uk

@@ -1,0 +1,6 @@
+www.dotmailer.co.uk
+app.dotmailer.co.uk
+cmp.dotmailer.co.uk
+leadvision.dotmailer.co.uk
+api.leadvision.dotmailer.co.uk
+r1-cmp.dotmailer.co.uk

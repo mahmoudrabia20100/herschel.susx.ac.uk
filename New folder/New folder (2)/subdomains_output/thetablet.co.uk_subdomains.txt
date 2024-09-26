@@ -1,0 +1,6 @@
+www.thetablet.co.uk
+account.thetablet.co.uk
+checkout.thetablet.co.uk
+identity.thetablet.co.uk
+payments.thetablet.co.uk
+shop.thetablet.co.uk

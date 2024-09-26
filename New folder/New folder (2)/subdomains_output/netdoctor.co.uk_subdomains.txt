@@ -1,0 +1,10 @@
+forums.netdoctor.co.uk
+healthcheck.netdoctor.co.uk
+lediet.netdoctor.co.uk
+mail.netdoctor.co.uk
+onlinedr.netdoctor.co.uk
+www.onlinedr.netdoctor.co.uk
+quiz.netdoctor.co.uk
+login.realage.netdoctor.co.uk
+shop.netdoctor.co.uk
+www.shop.netdoctor.co.uk

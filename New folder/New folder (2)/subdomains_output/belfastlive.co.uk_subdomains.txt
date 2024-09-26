@@ -1,0 +1,8 @@
+comm-api.belfastlive.co.uk
+converse.belfastlive.co.uk
+e.belfastlive.co.uk
+newsletters.e.belfastlive.co.uk
+login.belfastlive.co.uk
+omniture.belfastlive.co.uk
+profile.belfastlive.co.uk
+property.belfastlive.co.uk

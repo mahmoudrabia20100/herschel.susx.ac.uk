@@ -1,0 +1,7 @@
+www.civicaepay.co.uk
+cf.civicaepay.co.uk
+cloudflaretest.civicaepay.co.uk
+encryption-service.civicaepay.co.uk
+prod-encryption-service.civicaepay.co.uk
+test-encryption-service.civicaepay.co.uk
+tunneltest.civicaepay.co.uk

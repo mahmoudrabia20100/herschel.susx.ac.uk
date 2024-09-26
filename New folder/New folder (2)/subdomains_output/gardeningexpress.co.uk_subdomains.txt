@@ -1,0 +1,11 @@
+api-warehousemanagement.gardeningexpress.co.uk
+api-warehousemanagement-stage.gardeningexpress.co.uk
+competitions.gardeningexpress.co.uk
+dummyadmin.gardeningexpress.co.uk
+help.gardeningexpress.co.uk
+houseplant-dev.gardeningexpress.co.uk
+m1themedev.gardeningexpress.co.uk
+m2-dev.gardeningexpress.co.uk
+support.gardeningexpress.co.uk
+surveys.gardeningexpress.co.uk
+test-help.gardeningexpress.co.uk

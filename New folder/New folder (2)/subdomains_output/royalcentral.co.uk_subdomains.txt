@@ -1,0 +1,8 @@
+www.royalcentral.co.uk
+autodiscover.royalcentral.co.uk
+cpanel.royalcentral.co.uk
+cpcalendars.royalcentral.co.uk
+cpcontacts.royalcentral.co.uk
+mail.royalcentral.co.uk
+webdisk.royalcentral.co.uk
+webmail.royalcentral.co.uk

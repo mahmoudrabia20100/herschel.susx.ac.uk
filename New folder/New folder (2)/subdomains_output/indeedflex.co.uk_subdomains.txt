@@ -1,0 +1,16 @@
+www.indeedflex.co.uk
+admin.indeedflex.co.uk
+admin-demo.indeedflex.co.uk
+agency.indeedflex.co.uk
+agency-demo.indeedflex.co.uk
+agency-staging.indeedflex.co.uk
+api-demo.indeedflex.co.uk
+client-api.indeedflex.co.uk
+client-api-demo.indeedflex.co.uk
+client-api-staging.indeedflex.co.uk
+help.indeedflex.co.uk
+www.help.indeedflex.co.uk
+portal.indeedflex.co.uk
+portal-demo.indeedflex.co.uk
+portal-staging.indeedflex.co.uk
+v2.indeedflex.co.uk

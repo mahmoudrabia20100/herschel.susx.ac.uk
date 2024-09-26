@@ -1,0 +1,7 @@
+www.fantasyfootballscout.co.uk
+api.fantasyfootballscout.co.uk
+cdn.fantasyfootballscout.co.uk
+hc-ssl-cache.fantasyfootballscout.co.uk
+members-staging.fantasyfootballscout.co.uk
+members-v2.fantasyfootballscout.co.uk
+redirect.fantasyfootballscout.co.uk

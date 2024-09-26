@@ -1,0 +1,17 @@
+dynama.allocate-cloud.co.uk
+eahrc.allocate-cloud.co.uk
+eahrc-preprod.allocate-cloud.co.uk
+login.allocate-cloud.co.uk
+login-preprod.allocate-cloud.co.uk
+login-test.allocate-cloud.co.uk
+loop.allocate-cloud.co.uk
+loop-preprod.allocate-cloud.co.uk
+naahb.allocate-cloud.co.uk
+octopus.allocate-cloud.co.uk
+oidc.allocate-cloud.co.uk
+poc002.allocate-cloud.co.uk
+nww.poc002.allocate-cloud.co.uk
+regressiontest03waf.allocate-cloud.co.uk
+signin.allocate-cloud.co.uk
+signin-preprod.allocate-cloud.co.uk
+signin-test.allocate-cloud.co.uk

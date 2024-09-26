@@ -1,0 +1,6 @@
+services.code.dev-guardianapps.co.uk
+api.nextgen.guardianapps.co.uk
+code.api.nextgen.guardianapps.co.uk
+api-secure.nextgen.guardianapps.co.uk
+www.api-secure.nextgen.guardianapps.co.uk
+services.guardianapps.co.uk

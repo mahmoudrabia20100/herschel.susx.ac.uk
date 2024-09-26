@@ -1,0 +1,33 @@
+[wix-takeover] [http] [high] https://careers.sja.org.uk ["www42.wixdns.net"]
+[netlify-takeover] [http] [high] https://civic.scotland.shelter.org.uk
+[netlify-takeover] [http] [high] https://civic.england.shelter.org.uk
+[wix-takeover] [http] [high] https://ctr.kcl.ac.uk
+[shopify-takeover] [http] [high] https://davidlloyd.mailplus.co.uk ["shops.myshopify.com"]
+[wix-takeover] [http] [high] https://designschoolapp.lboro.ac.uk
+[netlify-takeover] [http] [high] https://editors.rca.ac.uk ["editors-2021-rca.netlify.app"]
+[campaignmonitor-takeover] [http] [high] https://email.gassaferegister.co.uk/login?ReturnUrl=%2F
+[campaignmonitor-takeover] [http] [high] https://email.trainingzone.co.uk/login?ReturnUrl=%2F
+[netlify-takeover] [http] [high] https://feature-cookie-bar-change-refresh.england.shelter.org.uk
+[github-takeover] [http] [high] https://founder.krystal.co.uk ["krystal-hosting.github.io"]
+[aws-bucket-takeover] [http] [high] http://foundry-s3.tandf.co.uk ["foundry-s3.tandf.co.uk"]
+[wix-takeover] [http] [high] https://giving.cardfactory.co.uk ["www18.wixdns.net"]
+[github-takeover] [http] [high] https://herschel.susx.ac.uk ["H-E-L-P.github.io"]
+[agilecrm-takeover] [http] [high] https://homepage.sainsburys.co.uk
+[netlify-takeover] [http] [high] https://hpmt.nesta.org.uk ["nesta-asf-hpmt.netlify.app"]
+[netlify-takeover] [http] [high] https://mystay.travelodge.co.uk ["vigilant-lalande-f79761.netlify.app"]
+[campaignmonitor-takeover] [http] [high] https://newsletter.pipeten.co.uk/login?ReturnUrl=%2F
+[netlify-takeover] [http] [high] https://osano.england.shelter.org.uk
+[netlify-takeover] [http] [high] https://preview-2020.rca.ac.uk ["rcalive.netlify.app"]
+[netlify-takeover] [http] [high] https://preview-wip2022.rca.ac.uk ["preview-wip2022.netlify.app"]
+[ghost-takeover] [http] [high] https://publishing.inyourarea.co.uk ["inyourarea.ghost.io"]
+[netlify-takeover] [http] [high] https://pzl.england.shelter.org.uk
+[shopify-takeover] [http] [high] https://shop.peta.org.uk
+[cargo-takeover] [http] [high] https://soc2014.rca.ac.uk
+[aws-bucket-takeover] [http] [high] https://strategy2030.nesta.org.uk ["strategy2030.nesta.org.uk"]
+[wix-takeover] [http] [high] https://uclengin-ics.cs.ucl.ac.uk ["www58.wixdns.net"]
+[wix-takeover] [http] [high] https://www.careers.sja.org.uk ["www42.wixdns.net"]
+[wix-takeover] [http] [high] https://www.ctr.kcl.ac.uk ["www98.wixdns.net"]
+[aws-bucket-takeover] [http] [high] https://www.dartford-crossing-charge.service.gov.uk ["www.dartford-crossing-charge.service.gov.uk"]
+[wix-takeover] [http] [high] https://www.designschoolapp.lboro.ac.uk ["www241.wixdns.net"]
+[wix-takeover] [http] [high] https://www.giving.cardfactory.co.uk ["www18.wixdns.net"]
+[wix-takeover] [http] [high] https://www.uclengin-ics.cs.ucl.ac.uk ["www58.wixdns.net"]

@@ -1,0 +1,16 @@
+www.scan.co.uk
+AutoDiscover.scan.co.uk
+adapt.scan.co.uk
+exoendpoint.scan.co.uk
+mail.scan.co.uk
+me.scan.co.uk
+me2.scan.co.uk
+mx2.scan.co.uk
+www.mx2.scan.co.uk
+p-gateway.scan.co.uk
+www.p-gateway.scan.co.uk
+secure.scan.co.uk
+sps.scan.co.uk
+static.scan.co.uk
+teamspbx.scan.co.uk
+www.teamspbx.scan.co.uk

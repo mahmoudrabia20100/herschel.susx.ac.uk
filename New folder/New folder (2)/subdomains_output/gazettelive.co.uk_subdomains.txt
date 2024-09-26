@@ -1,0 +1,13 @@
+app.gazettelive.co.uk
+comm-api.gazettelive.co.uk
+converse.gazettelive.co.uk
+dating.gazettelive.co.uk
+directory.gazettelive.co.uk
+e.gazettelive.co.uk
+newsletters.e.gazettelive.co.uk
+edition.gazettelive.co.uk
+familynotices.gazettelive.co.uk
+login.gazettelive.co.uk
+omniture.gazettelive.co.uk
+profile.gazettelive.co.uk
+property.gazettelive.co.uk

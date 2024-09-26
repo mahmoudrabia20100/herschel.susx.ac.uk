@@ -1,0 +1,11 @@
+app.getreading.co.uk
+comm-api.getreading.co.uk
+converse.getreading.co.uk
+dating.getreading.co.uk
+e.getreading.co.uk
+newsletters.e.getreading.co.uk
+familynotices.getreading.co.uk
+login.getreading.co.uk
+omniture.getreading.co.uk
+profile.getreading.co.uk
+property.getreading.co.uk

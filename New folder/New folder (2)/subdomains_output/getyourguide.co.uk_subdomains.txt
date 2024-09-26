@@ -1,0 +1,3 @@
+www.getyourguide.co.uk
+staging.getyourguide.co.uk
+test.getyourguide.co.uk

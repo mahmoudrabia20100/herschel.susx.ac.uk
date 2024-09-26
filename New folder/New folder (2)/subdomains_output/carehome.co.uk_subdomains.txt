@@ -1,0 +1,10 @@
+www.carehome.co.uk
+admin.carehome.co.uk
+api.carehome.co.uk
+assets.carehome.co.uk
+assetsstaging.carehome.co.uk
+auth.carehome.co.uk
+authstaging.carehome.co.uk
+cp.carehome.co.uk
+news.carehome.co.uk
+support.carehome.co.uk

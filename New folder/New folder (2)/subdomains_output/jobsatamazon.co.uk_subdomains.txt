@@ -1,0 +1,5 @@
+www.jobsatamazon.co.uk
+alb.jobsatamazon.co.uk
+alb-v2.jobsatamazon.co.uk
+application.jobsatamazon.co.uk
+static-assets.application.jobsatamazon.co.uk

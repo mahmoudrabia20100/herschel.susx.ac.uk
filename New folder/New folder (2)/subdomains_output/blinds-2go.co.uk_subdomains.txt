@@ -1,0 +1,12 @@
+www.blinds-2go.co.uk
+blog.blinds-2go.co.uk
+chat.blinds-2go.co.uk
+www.chat.blinds-2go.co.uk
+content.blinds-2go.co.uk
+www.content.blinds-2go.co.uk
+dev.blinds-2go.co.uk
+local.blinds-2go.co.uk
+mail.blinds-2go.co.uk
+stg.blinds-2go.co.uk
+www.stg.blinds-2go.co.uk
+test.blinds-2go.co.uk

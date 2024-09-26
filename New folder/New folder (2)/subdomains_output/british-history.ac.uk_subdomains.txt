@@ -1,0 +1,8 @@
+www.british-history.ac.uk
+data.british-history.ac.uk
+dev.british-history.ac.uk
+images.british-history.ac.uk
+maps.british-history.ac.uk
+prod.british-history.ac.uk
+search.british-history.ac.uk
+stage.british-history.ac.uk

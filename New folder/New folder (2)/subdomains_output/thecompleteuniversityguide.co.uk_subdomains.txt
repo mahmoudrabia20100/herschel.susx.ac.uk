@@ -1,0 +1,8 @@
+www.thecompleteuniversityguide.co.uk
+mdev.dev.aws.thecompleteuniversityguide.co.uk
+mtest.test.aws.thecompleteuniversityguide.co.uk
+campaign.thecompleteuniversityguide.co.uk
+institutions.thecompleteuniversityguide.co.uk
+mtest.thecompleteuniversityguide.co.uk
+www.old.thecompleteuniversityguide.co.uk
+staging.thecompleteuniversityguide.co.uk

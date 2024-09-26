@@ -1,0 +1,14 @@
+www.findmypast.co.uk
+auth.findmypast.co.uk
+auth-integration.findmypast.co.uk
+blog.findmypast.co.uk
+help.findmypast.co.uk
+my-records.integration.findmypast.co.uk
+mi.findmypast.co.uk
+new.findmypast.co.uk
+qcapp.findmypast.co.uk
+www.qcapp.findmypast.co.uk
+search.findmypast.co.uk
+ssgtm.findmypast.co.uk
+staging.findmypast.co.uk
+www.staging.findmypast.co.uk

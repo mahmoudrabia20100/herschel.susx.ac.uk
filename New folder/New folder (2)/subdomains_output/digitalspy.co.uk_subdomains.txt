@@ -1,0 +1,6 @@
+forums.digitalspy.co.uk
+link.digitalspy.co.uk
+mail.digitalspy.co.uk
+rams.digitalspy.co.uk
+www.rams.digitalspy.co.uk
+sandbox.rams.digitalspy.co.uk

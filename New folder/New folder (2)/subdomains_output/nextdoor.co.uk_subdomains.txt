@@ -1,0 +1,8 @@
+api.nextdoor.co.uk
+auth.nextdoor.co.uk
+blog.nextdoor.co.uk
+forums.nextdoor.co.uk
+neighbour.nextdoor.co.uk
+sockets.nextdoor.co.uk
+tools.nextdoor.co.uk
+webhook.nextdoor.co.uk

@@ -1,0 +1,16 @@
+www.mintsoft.co.uk
+amazon.mintsoft.co.uk
+www.amazon.mintsoft.co.uk
+api-dev-new.mintsoft.co.uk
+api-internal-demo-fd.mintsoft.co.uk
+api-internal-dev-new.mintsoft.co.uk
+api-tools-dev-new.mintsoft.co.uk
+campaigns.mintsoft.co.uk
+cdn.mintsoft.co.uk
+cdn-demo.mintsoft.co.uk
+connector.mintsoft.co.uk
+listingcdn.mintsoft.co.uk
+om.mintsoft.co.uk
+om-dev-new.mintsoft.co.uk
+om-test.mintsoft.co.uk
+support.mintsoft.co.uk

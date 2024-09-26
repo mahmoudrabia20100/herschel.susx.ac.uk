@@ -1,0 +1,4 @@
+admin-old.nmgx.co.uk
+core.nmgx.co.uk
+www.core.nmgx.co.uk
+snapshots.nmgx.co.uk

@@ -1,0 +1,12 @@
+www.exchangerates.org.uk
+assets.exchangerates.org.uk
+cdn2.exchangerates.org.uk
+de.exchangerates.org.uk
+es.exchangerates.org.uk
+fr.exchangerates.org.uk
+images.exchangerates.org.uk
+images2.exchangerates.org.uk
+mail.exchangerates.org.uk
+nl.exchangerates.org.uk
+pt.exchangerates.org.uk
+www.ssl.exchangerates.org.uk

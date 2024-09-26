@@ -1,0 +1,10 @@
+www.trivago.co.uk
+activities.trivago.co.uk
+checkin.trivago.co.uk
+company.trivago.co.uk
+discover.trivago.co.uk
+magazine.trivago.co.uk
+www.magazine.trivago.co.uk
+room5.trivago.co.uk
+www.room5.trivago.co.uk
+travel.trivago.co.uk

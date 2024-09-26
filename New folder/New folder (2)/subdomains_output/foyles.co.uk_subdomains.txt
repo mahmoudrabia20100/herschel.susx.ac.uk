@@ -1,0 +1,13 @@
+www.foyles.co.uk
+cdn.foyles.co.uk
+citrix.foyles.co.uk
+citrix1.foyles.co.uk
+citrix2.foyles.co.uk
+ebooks.foyles.co.uk
+images.foyles.co.uk
+www.images.foyles.co.uk
+lite-api.foyles.co.uk
+lite-app.foyles.co.uk
+news.foyles.co.uk
+vpn.foyles.co.uk
+webmail.foyles.co.uk

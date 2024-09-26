@@ -1,0 +1,12 @@
+www.examinerlive.co.uk
+comm-api.examinerlive.co.uk
+converse.examinerlive.co.uk
+e.examinerlive.co.uk
+newsletters.e.examinerlive.co.uk
+edition.examinerlive.co.uk
+i2-prod.examinerlive.co.uk
+login.examinerlive.co.uk
+profile.examinerlive.co.uk
+property.examinerlive.co.uk
+s2-prod.examinerlive.co.uk
+webviews.examinerlive.co.uk

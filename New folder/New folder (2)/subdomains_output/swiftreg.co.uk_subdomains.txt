@@ -1,0 +1,14 @@
+www.swiftreg.co.uk
+cpanel.swiftreg.co.uk
+cpcalendars.swiftreg.co.uk
+cpcontacts.swiftreg.co.uk
+dev.swiftreg.co.uk
+www.dev.swiftreg.co.uk
+mail.swiftreg.co.uk
+new.swiftreg.co.uk
+www.new.swiftreg.co.uk
+stage.swiftreg.co.uk
+www.stage.swiftreg.co.uk
+webdisk.swiftreg.co.uk
+webmail.swiftreg.co.uk
+whm.swiftreg.co.uk

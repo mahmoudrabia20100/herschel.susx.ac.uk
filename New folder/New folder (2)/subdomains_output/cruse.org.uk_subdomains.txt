@@ -1,0 +1,17 @@
+www.cruse.org.uk
+BRANCHMAIL.cruse.org.uk
+MAILGATE.cruse.org.uk
+autodiscover.cruse.org.uk
+branchmail.cruse.org.uk
+www.branchmail.cruse.org.uk
+cis.cruse.org.uk
+www.cis.cruse.org.uk
+community.cruse.org.uk
+intranet.cruse.org.uk
+www.intranet.cruse.org.uk
+mailgate.cruse.org.uk
+www.mailgate.cruse.org.uk
+mis.cruse.org.uk
+old.cruse.org.uk
+remote.cruse.org.uk
+www.remote.cruse.org.uk

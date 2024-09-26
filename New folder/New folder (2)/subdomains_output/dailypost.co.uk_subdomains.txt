@@ -1,0 +1,12 @@
+app.dailypost.co.uk
+comm-api.dailypost.co.uk
+converse.dailypost.co.uk
+directory.dailypost.co.uk
+e.dailypost.co.uk
+newsletters.e.dailypost.co.uk
+edition.dailypost.co.uk
+familynotices.dailypost.co.uk
+login.dailypost.co.uk
+omniture.dailypost.co.uk
+profile.dailypost.co.uk
+property.dailypost.co.uk

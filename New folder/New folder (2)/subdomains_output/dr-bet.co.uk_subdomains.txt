@@ -1,0 +1,9 @@
+www.dr-bet.co.uk
+1.dr-bet.co.uk
+analytics.dr-bet.co.uk
+api.dr-bet.co.uk
+apollo.dr-bet.co.uk
+demo.dr-bet.co.uk
+sitemap.dr-bet.co.uk
+staging.dr-bet.co.uk
+www2.dr-bet.co.uk

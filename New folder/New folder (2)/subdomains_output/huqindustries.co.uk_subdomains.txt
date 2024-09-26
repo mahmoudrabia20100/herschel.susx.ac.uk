@@ -1,0 +1,5 @@
+api.huqindustries.co.uk
+charles.huqindustries.co.uk
+logging.huqindustries.co.uk
+polygon.huqindustries.co.uk
+report.huqindustries.co.uk

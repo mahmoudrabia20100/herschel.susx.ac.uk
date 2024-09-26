@@ -1,0 +1,9 @@
+www.cruisecritic.co.uk
+api.cruisecritic.co.uk
+auth.cruisecritic.co.uk
+blog.cruisecritic.co.uk
+boards.cruisecritic.co.uk
+links.info.cruisecritic.co.uk
+lighthouse.cruisecritic.co.uk
+smart-deals.cruisecritic.co.uk
+staging.cruisecritic.co.uk

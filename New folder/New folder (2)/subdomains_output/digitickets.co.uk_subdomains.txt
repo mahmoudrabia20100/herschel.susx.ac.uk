@@ -1,0 +1,8 @@
+api-doc.digitickets.co.uk
+assets.digitickets.co.uk
+epos.digitickets.co.uk
+beta.epos.digitickets.co.uk
+queue-assets.digitickets.co.uk
+static-assets.digitickets.co.uk
+support.digitickets.co.uk
+waivers.digitickets.co.uk

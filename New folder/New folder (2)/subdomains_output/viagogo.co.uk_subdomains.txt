@@ -1,0 +1,6 @@
+www.viagogo.co.uk
+sandbox.checkout.viagogo.co.uk
+sandbox.my.viagogo.co.uk
+sandbox.sell.viagogo.co.uk
+qa.www.viagogo.co.uk
+sandbox.www.viagogo.co.uk

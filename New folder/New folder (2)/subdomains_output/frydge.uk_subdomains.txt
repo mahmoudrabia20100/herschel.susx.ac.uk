@@ -1,0 +1,8 @@
+www.frydge.uk
+autodiscover.frydge.uk
+cpanel.frydge.uk
+cpcalendars.frydge.uk
+cpcontacts.frydge.uk
+mail.frydge.uk
+webdisk.frydge.uk
+webmail.frydge.uk

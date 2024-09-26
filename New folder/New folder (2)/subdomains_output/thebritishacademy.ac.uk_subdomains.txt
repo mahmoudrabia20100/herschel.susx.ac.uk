@@ -1,0 +1,11 @@
+www.thebritishacademy.ac.uk
+amp.thebritishacademy.ac.uk
+archive.thebritishacademy.ac.uk
+collections.thebritishacademy.ac.uk
+collectionsindex.thebritishacademy.ac.uk
+email.thebritishacademy.ac.uk
+journal.thebritishacademy.ac.uk
+journals.thebritishacademy.ac.uk
+languagemap.thebritishacademy.ac.uk
+publications.thebritishacademy.ac.uk
+publications-dev.thebritishacademy.ac.uk

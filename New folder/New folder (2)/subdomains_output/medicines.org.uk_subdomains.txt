@@ -1,0 +1,12 @@
+demo-submissions.medicines.org.uk
+emcsupport.medicines.org.uk
+services.indemand.medicines.org.uk
+monitoring.medicines.org.uk
+outlook.medicines.org.uk
+ssl.medicines.org.uk
+submissions.medicines.org.uk
+submissions-admin.medicines.org.uk
+training-submissions.medicines.org.uk
+icomply.uat05.medicines.org.uk
+managementicomply.uat05.medicines.org.uk
+synchronisericomply.uat05.medicines.org.uk

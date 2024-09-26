@@ -1,0 +1,14 @@
+blend.salesfire.co.uk
+conversions.salesfire.co.uk
+demo.salesfire.co.uk
+event.salesfire.co.uk
+www.event.salesfire.co.uk
+get.salesfire.co.uk
+go.salesfire.co.uk
+help.salesfire.co.uk
+hit.salesfire.co.uk
+www.hit.salesfire.co.uk
+knowledgebase.salesfire.co.uk
+qa.salesfire.co.uk
+resizer.salesfire.co.uk
+trends.salesfire.co.uk

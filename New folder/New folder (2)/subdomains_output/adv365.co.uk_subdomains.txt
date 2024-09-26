@@ -1,0 +1,12 @@
+fs.a365lab.adv365.co.uk
+client0521-e54.adv365.co.uk
+e5-fiscal.adv365.co.uk
+linshare.adv365.co.uk
+noc.adv365.co.uk
+npm.adv365.co.uk
+rds.adv365.co.uk
+vpn.fms-2.sl1.adv365.co.uk
+ah.svc.adv365.co.uk
+av.svc.adv365.co.uk
+dxl1.svc.adv365.co.uk
+dxl2.svc.adv365.co.uk

@@ -1,0 +1,17 @@
+autodiscover.scholastic.co.uk
+bookfairs.scholastic.co.uk
+clubs-shop.scholastic.co.uk
+clubs-teachers.scholastic.co.uk
+commissionshop.scholastic.co.uk
+email.scholastic.co.uk
+lyncdiscover.scholastic.co.uk
+mgm-dev.scholastic.co.uk
+mgm-staging.scholastic.co.uk
+mgm-uat.scholastic.co.uk
+myeducationjobs.scholastic.co.uk
+shop.scholastic.co.uk
+sip.scholastic.co.uk
+update.scholastic.co.uk
+www.update.scholastic.co.uk
+www2.scholastic.co.uk
+www4.scholastic.co.uk

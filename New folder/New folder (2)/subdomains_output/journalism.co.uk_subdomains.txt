@@ -1,0 +1,6 @@
+www.journalism.co.uk
+app.journalism.co.uk
+blogs.journalism.co.uk
+dev.journalism.co.uk
+staging.journalism.co.uk
+www.staging.journalism.co.uk

@@ -1,0 +1,12 @@
+www.glasgowlive.co.uk
+comm-api.glasgowlive.co.uk
+converse.glasgowlive.co.uk
+e.glasgowlive.co.uk
+newsletters.e.glasgowlive.co.uk
+i2-prod.glasgowlive.co.uk
+is.glasgowlive.co.uk
+login.glasgowlive.co.uk
+profile.glasgowlive.co.uk
+property.glasgowlive.co.uk
+s2-prod.glasgowlive.co.uk
+webviews.glasgowlive.co.uk

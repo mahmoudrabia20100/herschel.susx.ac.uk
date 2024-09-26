@@ -1,0 +1,17 @@
+app.walesonline.co.uk
+carudysgu.walesonline.co.uk
+comm-api.walesonline.co.uk
+converse.walesonline.co.uk
+dating.walesonline.co.uk
+directory.walesonline.co.uk
+e.walesonline.co.uk
+newsletters.e.walesonline.co.uk
+edition.walesonline.co.uk
+familynotices.walesonline.co.uk
+fantasyfootball.walesonline.co.uk
+login.walesonline.co.uk
+loveitteachit.walesonline.co.uk
+omniture.walesonline.co.uk
+profile.walesonline.co.uk
+property.walesonline.co.uk
+edition.wm.walesonline.co.uk

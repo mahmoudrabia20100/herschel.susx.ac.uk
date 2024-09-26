@@ -1,0 +1,5 @@
+collect.calvinklein.co.uk
+preprod-live.calvinklein.co.uk
+preprod-stag.calvinklein.co.uk
+www.prod-stag.calvinklein.co.uk
+tags.calvinklein.co.uk

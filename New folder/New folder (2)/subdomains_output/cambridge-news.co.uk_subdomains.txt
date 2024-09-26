@@ -1,0 +1,15 @@
+www.cambridge-news.co.uk
+comm-api.cambridge-news.co.uk
+converse.cambridge-news.co.uk
+datelocally.cambridge-news.co.uk
+dating.cambridge-news.co.uk
+directory.cambridge-news.co.uk
+e.cambridge-news.co.uk
+newsletters.e.cambridge-news.co.uk
+edition.cambridge-news.co.uk
+is.cambridge-news.co.uk
+login.cambridge-news.co.uk
+profile.cambridge-news.co.uk
+property.cambridge-news.co.uk
+s2-prod.cambridge-news.co.uk
+webviews.cambridge-news.co.uk
